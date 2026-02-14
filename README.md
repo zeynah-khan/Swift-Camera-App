@@ -1,4 +1,4 @@
-# 📸 CameraInt - Currently Working on This!
+# 📸 iOS Camera App - Currently Working on This!
 
 A custom iOS camera application built using **SwiftUI** and **AVFoundation**.  
 This project demonstrates camera session management, custom UI design, and UIKit integration within a SwiftUI architecture.
